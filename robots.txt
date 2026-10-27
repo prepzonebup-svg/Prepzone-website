@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /account/
+Disallow: /checkout/
+Disallow: /admin/
+Disallow: /login
+Disallow: /register
+Sitemap: https://bupadmission.com/sitemap.xml
